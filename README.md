@@ -1,4 +1,4 @@
-# Detec_odontoceti_clicks
+# Detect_odontoceti_clicks
 
 This challenge specifically aims to detect the presence of odontoceti clicks in underwater audio recordings in the Caribbean sea. The model will be evaluated on the Challenge Data ENS website.
 
